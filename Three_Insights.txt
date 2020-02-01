@@ -1,0 +1,5 @@
+Pypharmaceuticals Three Insights on Treatment Data
+
+1. According to the Box Plots, the Capomulin treatment showed substantially smaller tumor volumes at end of treatment compared to the other treatment groups.
+2. The linear regression model shows a strong fit and a fairly linear relationship between the weights and tumor volumes of the Capomulin treatment group.
+3. According to the single mouse comparison of tumor volume over time, the treatment showed notable decrease in tumor size over the course of the treatmen.
